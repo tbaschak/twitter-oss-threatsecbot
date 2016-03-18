@@ -1,0 +1,3 @@
+[submodule "lib/codebird-php"]
+	path = lib/codebird-php
+	url = https://github.com/jublonet/codebird-php
